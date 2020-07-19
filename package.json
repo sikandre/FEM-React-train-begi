@@ -1,0 +1,27 @@
+{
+  "name": "FEM-React-train-begi",
+  "version": "1.0.0",
+  "description": "Frontend masters beginner training",
+  "main": "index.js",
+  "scripts": {
+    "format": "prettier \"src/**/*.{js,html}\" --write",
+    "lint": "eslint \"src/**/*.{js,jsx}\" --quiet",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://sikandre@github.com/sikandre/FEM-React-train-begi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sikandre/FEM-React-train-begi/issues"
+  },
+  "homepage": "https://github.com/sikandre/FEM-React-train-begi#readme",
+  "devDependencies": {
+    "eslint": "^7.5.0",
+    "eslint-config-prettier": "^6.11.0",
+    "prettier": "^2.0.5"
+  }
+}
